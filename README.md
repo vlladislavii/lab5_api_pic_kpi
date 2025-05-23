@@ -42,16 +42,16 @@
 
 **Приклад запиту:**
 
-http://localhost:8000/info/?login=student123
+http://localhost:8000/info/?login=vladyslav.kiselar
 
 
 **Очікувана відповідь:**
 
 ```html
-<h1>Дані користувача: student123</h1>
+<h1>Дані користувача: vladyslav.kiselar</h1>
 <p>Прізвище: Кіселар</p>
 <p>Ім'я: Владислав</p>
-<p>Курс: 3</p>
+<p>Курс: 2</p>
 <p>Група: ІС-32</p>
 ```
 
